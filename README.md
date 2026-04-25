@@ -82,7 +82,10 @@ Fast-paced classic dice rolling. Simple mechanics with high-speed results and pr
 ├── shared-db.js     # Database schema and shared logic
 └── main.js          # Master process to run bot and web concurrently
 ```
-
+## Note from dev
+tbh its kinda good if you want to modify it 
+fix some bugs,get into it and i think you will be fine 
+as i remember there are some problems with balance update in some games,you should fix it 
 ## 📜 License
 
 This project is licensed under the ISC License.
