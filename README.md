@@ -2,7 +2,7 @@
 
 RUBY is a high-performance, premium Telegram Casino Bot and Mini App built for a seamless gambling experience. It features real-time multiplayer games, a robust crypto payment system, and a modern glassmorphic UI.
 
-![RUBY Preview](assets/phonecrystal.png)
+![RUBY Preview](web/assets/phonecrystal.png)
 
 ## 🚀 Features
 
@@ -38,8 +38,8 @@ Fast-paced classic dice rolling. Simple mechanics with high-speed results and pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ruby-casino.git
-   cd ruby-casino
+   git clone https://github.com/yuriikot2010/Casino-template.git
+   cd Casino-template
    ```
 
 2. **Install dependencies**:
